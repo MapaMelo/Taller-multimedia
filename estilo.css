@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+    color: black
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subparrafo {
+    font-size:small;
+}
+
+#final {
+    color: rgb(196, 47, 196)
+}
