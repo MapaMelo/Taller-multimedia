@@ -38,5 +38,6 @@ body {
     height: 30%;
     border: 1px black solid;
     background-color: rgb(226, 59, 59);
-    left: 30%;
+    top: 80%;
+    position: absolute;
 }
