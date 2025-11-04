@@ -70,6 +70,50 @@ body {
     position: absolute;
     transform:rotate(-30deg);  
 }
+#afuera3 {
+    width: 40%;
+    height: 35%;
+    border-bottom: 5px rgb(0, 0, 0) solid;
+    background-color: rgba(204, 178, 178, 0);
+    border-radius: 50%;
+    top: 48%;
+    left: -15%;
+    position: absolute;
+    transform:rotate(-100deg);  
+}
+#afuera4 {
+    width: 40%;
+    height: 35%;
+    border-bottom: 5px rgb(0, 0, 0) solid;
+    background-color: rgba(204, 178, 178, 0);
+    border-radius: 50%;
+    top: 48%;
+    left: 75%;
+    position: absolute;
+    transform:rotate(100deg);  
+}
+#afuera5 {
+    width: 40%;
+    height: 35%;
+    border-bottom: 5px rgb(0, 0, 0) solid;
+    background-color: rgba(204, 178, 178, 0);
+    border-radius: 50%;
+    top: 70%;
+    left: 10%;
+    position: absolute;
+    transform:rotate(-150deg); 
+}
+#afuera6 {
+    width: 40%;
+    height: 35%;
+    border-bottom: 5px rgb(0, 0, 0) solid;
+    background-color: rgba(204, 178, 178, 0);
+    border-radius: 50%;
+    top: 70%;
+    left: 50%;
+    position: absolute;
+    transform:rotate(150deg);  
+}
 #telaraña1 {
     width: 1%;
     height: 100%;
